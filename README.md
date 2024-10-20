@@ -1,6 +1,6 @@
 ## Hi I'm Mohammed Bilal 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedbilalns&langs_count=12)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedbilalns&layout=donut-vertical)
 <!--
 **mohammedbilalns/mohammedbilalns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
